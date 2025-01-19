@@ -3,3 +3,9 @@ description: Materiały pomocnicze do nauki hebrajskiego
 author: Maciek Świszczowski
 include:
   - assets/css/styles.css
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
