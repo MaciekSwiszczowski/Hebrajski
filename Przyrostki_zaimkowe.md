@@ -12,7 +12,6 @@
 | Jego          | וֹ         | סוּסוֹ         |
 | Jej           | ָהּ         | סוּסָהּ         |
 
-
 ## Posiadacz w liczbie mnogiej, rzeczownik w liczbie pojedynczej
 
 | **Znaczenie** | **Sufix**  | **Przykład** |
