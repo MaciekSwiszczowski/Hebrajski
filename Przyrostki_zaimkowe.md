@@ -1,4 +1,7 @@
-<div style="font-family: 'Times New Roman', Times, serif;">
+---
+layout: default
+title: Przyrostki Zaimkowe
+---
 
 # Przyrostki zaimkowe 
 
