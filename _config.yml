@@ -1,4 +1,4 @@
-theme: slate
+remote_theme: pages-themes/slate@v0.2.0
 description: Materiały pomocnicze do nauki hebrajskiego
 author: Maciek Świszczowski
 include:
